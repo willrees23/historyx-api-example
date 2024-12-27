@@ -1,0 +1,5 @@
+name: HistoryXAPI-Example
+version: '1.0.0'
+main: dev.wand.historyXAPIExample.HistoryXAPIExample
+api-version: '1.13'
+depends: [ HistoryX ]
